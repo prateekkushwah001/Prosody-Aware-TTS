@@ -2,9 +2,9 @@
 
 This repository showcases the performance of our **Prosody-Controlled VITS** model in comparison to the baseline **SOTA VITS** model. Below are various evaluation scenarios with audio samples.
 
-## Research Overview
+## 📊 Research Overview
 
-![Research Poster](poster.jpg)
+![Research Poster](resources/poster.jpg)
 *End-to-End Speech Synthesis with Explicit Prosody Control and Computational Pipeline Analysis*
 
 ---
