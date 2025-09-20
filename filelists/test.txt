@@ -1,0 +1,49 @@
+audio_id\amused_57-84_0071.wav|What was the object of your little sensation.
+audio_id\amused_57-84_0072.wav|But who was Eileen's double.
+audio_id\amused_57-84_0073.wav|The promoter's eyes were heavy, with little puffy bags under them.
+audio_id\amused_57-84_0074.wav|And now, down there, Eileen was waiting for him.
+audio_id\amused_57-84_0075.wav|There has been a change, she interrupted him.
+audio_id\amused_57-84_0076.wav|The gray eyes faltered; the flush deepened.
+audio_id\amused_57-84_0077.wav|It is the fire, partly, she said.
+audio_id\amused_57-84_0078.wav|Then, and at supper, he tried to fathom her.
+audio_id\amused_57-84_0079.wav|It was a large canoe.
+audio_id\amused_57-84_0080.wav|What if Jeanne failed him.
+audio_id\anger_253-280_0267.wav|Eli Harding asked, as Shunk started to follow.
+audio_id\anger_253-280_0268.wav|Now go ahead and tell me in a straightforward way what has happened.
+audio_id\anger_253-280_0269.wav|That's where they cut off the Scottish Chiefs and killed all hands.
+audio_id\anger_253-280_0270.wav|And after the bath a shave would not be bad.
+audio_id\anger_253-280_0271.wav|Now please give a plain statement of what occurred.
+audio_id\anger_253-280_0272.wav|You can take a vacation on pay.
+audio_id\anger_253-280_0273.wav|They are big trees and require plenty of room.
+audio_id\anger_253-280_0275.wav|There are no kiddies and half grown youths among them.
+audio_id\anger_253-280_0276.wav|Oolong Atoll was one hundred and forty miles in circumference.
+audio_id\anger_253-280_0277.wav|McCoy found a stifling, poisonous atmosphere in the pent cabin.
+audio_id\disgust_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+audio_id\disgust_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+audio_id\disgust_85-112_0106.wav|The emotion which she had suppressed burst forth now in a choking sob.
+audio_id\disgust_85-112_0107.wav|If you only could know how I thank you.
+audio_id\disgust_85-112_0108.wav|He waded into the edge of the water and began scrubbing himself.
+audio_id\disgust_85-112_0109.wav|Do you know that you are shaking my confidence in you.
+audio_id\disgust_85-112_0110.wav|Much, replied Jeanne, as tersely.
+audio_id\disgust_85-112_0111.wav|Instead, he joined her; and they ate like two hungry children.
+audio_id\disgust_85-112_0112.wav|He was wounded in the arm.
+audio_id\neutral_197-364_0266.wav|They handled two men already, both grub-thieves.
+audio_id\neutral_197-364_0267.wav|Eli Harding asked, as Shunk started to follow.
+audio_id\neutral_197-364_0268.wav|Now go ahead and tell me in a straightforward way what has happened.
+audio_id\neutral_197-364_0269.wav|That's where they cut off the Scottish Chiefs and killed all hands.
+audio_id\neutral_197-364_0270.wav|And after the bath a shave would not be bad.
+audio_id\neutral_197-364_0271.wav|Now please give a plain statement of what occurred.
+audio_id\neutral_197-364_0272.wav|You can take a vacation on pay.
+audio_id\neutral_197-364_0273.wav|They are big trees and require plenty of room.
+audio_id\neutral_197-364_0274.wav|And Raoul listened again to the tale of the house.
+audio_id\neutral_197-364_0275.wav|There are no kiddies and half grown youths among them.
+audio_id\sleepiness_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+audio_id\sleepiness_253-280_0266.wav|They handled two men already, both grub-thieves.
+audio_id\sleepiness_253-280_0267.wav|Eli Harding asked, as Shunk started to follow.
+audio_id\sleepiness_253-280_0268.wav|Now go ahead and tell me in a straightforward way what has happened.
+audio_id\sleepiness_253-280_0269.wav|That's where they cut off the Scottish Chiefs and killed all hands.
+audio_id\sleepiness_253-280_0270.wav|And after the bath a shave would not be bad.
+audio_id\sleepiness_253-280_0271.wav|Now please give a plain statement of what occurred.
+audio_id\sleepiness_253-280_0272.wav|You can take a vacation on pay.
+audio_id\sleepiness_253-280_0273.wav|They are big trees and require plenty of room.
+audio_id\sleepiness_253-280_0274.wav|And Raoul listened again to the tale of the house.
