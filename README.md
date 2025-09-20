@@ -2,9 +2,14 @@
 
 This repository showcases the performance of our **Prosody-Controlled VITS** model in comparison to the baseline **SOTA VITS** model. Below are various evaluation scenarios with audio samples.
 
+## Research Overview
+
+![Research Poster](poster.jpg)
+*End-to-End Speech Synthesis with Explicit Prosody Control and Computational Pipeline Analysis*
+
 ---
 
-## 🔈 Reference Audios (Original)
+## Reference Audios (Original)
 
 These audios serve as reference samples used to guide the prosody of the generated outputs.
 
@@ -75,3 +80,5 @@ These audios serve as reference samples used to guide the prosody of the generat
 ---
 
 Each sample demonstrates how emotional prosody and speaker reference can enhance the expressiveness of synthesized speech using our model.
+
+
